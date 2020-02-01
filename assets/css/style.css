@@ -1,0 +1,31 @@
+/* overriding bootstrap styles */
+.form-inline {
+    display: inline-block !important;
+}
+.navbar {
+    padding: 1rem 1rem;
+}
+.img-fluid {
+    object-fit: contain;
+    background-color: #373a3d;
+}
+b, strong {
+    font-weight: bold;
+}
+/* pagination */
+.pagination-links{
+	margin:30px 0;
+}
+.pagination-links strong{
+    padding: 8px 13px;
+    margin:5px;
+    color: white;
+    background: black;
+    border: 1px #ccc solid;
+}
+a.pagination-link{
+	padding: 8px 13px;
+	margin:5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
