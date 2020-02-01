@@ -1,6 +1,4 @@
-###################
-What is CodeIgniter
-###################
+## What is CodeIgniter
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
@@ -10,16 +8,11 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
-*******************
-App Information
-*******************
+## App Information
 
 ![](https://i.imgur.com/ZekKW0A.png)
 
-
-*******************
-Server Requirements
-*******************
+### Server Requirements
 
 PHP version 5.6 or newer is recommended.
 
